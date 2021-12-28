@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+💬 Ask me about Big Data and Data warehousing
+
+📫 How to reach me: umair.umi@live.co.uk
+
 <!--
 **umair-iftikhar/umair-iftikhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
