@@ -6,4 +6,4 @@
 
 ⚡ My Page: <https://umair-iftikhar.github.io/>
 
-🌱 I’m currently learning Elixir
+🌱 I’m currently working on DiJo
